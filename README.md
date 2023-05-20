@@ -13,8 +13,8 @@ Any contribution is appreciated. Please do not hesitate to send PR if you have a
 
 ## Requirements
 
-- Unity 2019.1 or above
-- Input System [v1.0.1](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/changelog/CHANGELOG.html#101---2020-11-20) or above
+- Unity 2022.1 or above
+- Input System v1.2.0 or above
 
 ## Installation
 
@@ -22,7 +22,7 @@ You can install this package using Unity Package Manager (UPM).
 
 1. On Unity Editor, open UPM window by going to Window > Package Manager
 2. In this window top left corner, click on the **+** button and select **Add package from git URL...**
-3. Enter this url ```https://github.com/nullkal/UniSense.git```
+3. Enter this url ```https://github.com/creatornet/UniSense.git```
 
 ## Samples
 
